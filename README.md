@@ -1,5 +1,3 @@
-![Knowledge Agent Platform Banner](https://via.placeholder.com/1200x300/0A0A0A/3B82F6?text=Knowledge+Agent+Platform)
-
 # 🧠 Knowledge Agent Platform
 
 ### Enterprise AI-Powered Knowledge Management System
